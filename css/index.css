@@ -14,7 +14,7 @@ body{
 .top-head{
     height: 800px;
     width: 100%;
-    background: url(/assets/olp_hero_desktop_UKI_FR.jpg) no-repeat center/cover;
+    background: url(../assets/olp_hero_desktop_UKI_FR.jpg) no-repeat center/cover;
 }
 
 #main-head{
@@ -404,7 +404,7 @@ footer img{
     header{
         height: 200px;
         width: 100%;
-        background: url(/assets/olp_hero_mobile_UKI_FR.jpg) no-repeat center/cover;
+        background: url(../assets/olp_hero_mobile_UKI_FR.jpg) no-repeat center/cover;
     }
     header button{
         background: none;
